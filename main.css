@@ -1,0 +1,10 @@
+table {
+	border-spacing: .25rem;
+}
+
+td {
+	width: 2.5rem;
+	height: 2.5rem;
+	background-color: cornflowerblue;
+	border-radius: 10px;
+}
